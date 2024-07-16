@@ -18,7 +18,16 @@
     "enableHibernateCache": false,
     "enableSwaggerCodegen": false,
     "enableTranslation": true,
-    "entities": [],
+    "entities": [
+      "Region",
+      "Country",
+      "Location",
+      "Department",
+      "Task",
+      "Employee",
+      "Job",
+      "JobHistory"
+    ],
     "gitCompany": "",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "8.6.0",
